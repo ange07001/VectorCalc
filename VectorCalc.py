@@ -9,7 +9,7 @@ VectorsDeg = []
 ComponentX = []
 ComponentY = []
 
-NumberOfVectors = input("How many vectors do you want to calculate?????? ")
+NumberOfVectors = input("How many vectors do you want to calculate: ")
 
 #Appends input to lists, the pair of Vector and Angle of said Vector has the same index in the two different lists
 while RepsQuestions < int(NumberOfVectors):
