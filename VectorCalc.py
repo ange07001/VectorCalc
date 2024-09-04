@@ -1,5 +1,8 @@
 import math
 
+# The angle is enterd by the angle from the positive x axies with anything in the negative y axies is in negative degrees from positive x axies.
+# if the force is going outwards (away from origo) it is positive and if it's pointed towards origo it's negative
+
 RepsQuestions = 0
 RepsComponents = 0
 TotComponentX = 0
