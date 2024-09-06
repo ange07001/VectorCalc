@@ -12,6 +12,16 @@ VectorsDeg = []
 ComponentX = []
 ComponentY = []
 
+banner = """
+  __                      _                 ___      _            _       _                   __  
+ / /      /\\   /\\___  ___| |_ ___  _ __    / __\\__ _| | ___ _   _| | __ _| |_ ___  _ __       \\ \\ 
+/ /_____  \\ \\ / / _ \\/ __| __/ _ \\| '__|  / /  / _` | |/ __| | | | |/ _` | __/ _ \\| '__|  _____\\ \\ 
+\\ \\_____|  \\ V /  __/ (__| || (_) | |    / /__| (_| | | (__| |_| | | (_| | || (_) | |    |_____/ / 
+ \\_\\        \\_/ \\___|\\___|\\__\\___/|_|    \\____/\\__,_|_|\\___|\\__,_|_|\\__,_|\\__\\___/|_|         /_/ 
+"""
+
+
+print("\n" + banner)
 NumberOfVectors = input("How many vectors do you want to calculate: ")
 
 #Appends input to lists, the pair of Vector and Angle of said Vector has the same index in the two different lists
