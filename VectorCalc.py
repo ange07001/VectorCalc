@@ -54,3 +54,5 @@ print(f"Resultant: {Resultant}")
 
 ResultantAngle = math.degrees(math.atan2(TotComponentY, TotComponentX))
 print(f"Resultant angle in degrees: {ResultantAngle}")  
+
+input("")
